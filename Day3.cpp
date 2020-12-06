@@ -57,9 +57,9 @@ int task2(string input){
 }
 
 int main(){
-    int a=task1("Day3Input.txt");
+    int a=task1("../../Day3Input.txt");
     cout<<"Task1= "<<a<<endl;
-    int b=task2("Day3Input.txt");
+    int b=task2("D:/AdventOfCode2020/Day3Input.txt");
     cout<<"\nTask2= "<<b<<endl;
 return 0;
 }
